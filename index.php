@@ -9,8 +9,8 @@
 
     <?php
         // Define student details
-        $student_id = "S12345";
-        $student_name = "John Doe";
+        $student_id = "500232722";
+        $student_name = "Atifa";
 
         // Display student information
         echo "<h2>Student Information</h2>";
